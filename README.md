@@ -33,8 +33,24 @@ A full-stack MERN task management application with user authentication, role-bas
 🔗 GitHub Repo: https://github.com/Raghav4951/Task-Manager-app
 
 ---
+###2. MediCare
+A PHP-based healthcare management system for handling patients, doctors, appointments, and doctor onboarding requests through a secure admin dashboard.
 
-### 2. ZameenDekho
+Tech Used: PHP, MySQL, HTML, CSS
+Features:
+
+Admin authentication with session management
+Patient management (view, delete, status control)
+Doctor management and onboarding request approval/rejection
+Appointment tracking system
+Status handling (Active/Blocked) with dynamic UI
+Secure queries using prepared statements
+Responsive admin dashboard UI
+
+🔗 Live Demo: https://doctorappointment.infinityfree.io/web%20project/login.php
+
+
+### 3. ZameenDekho (Upcomming)
 A real estate web project focused on property listing UI and responsive frontend design.
 
 **Tech Used:** HTML, CSS, JavaScript
