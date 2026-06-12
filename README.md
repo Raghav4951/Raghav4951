@@ -10,8 +10,8 @@ I am currently looking for Web Developer / MERN Stack Developer internship or fr
 ## 🚀 Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript, React.js  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Mongoose  
+**Backend:** Node.js, Express.js, PhP  
+**Database:** MongoDB, Mongoose, MySql  
 **Authentication:** JWT, bcrypt  
 **Tools:** Git, GitHub, VS Code, Postman, Vercel, Render  
 
@@ -33,7 +33,7 @@ A full-stack MERN task management application with user authentication, role-bas
 🔗 GitHub Repo: https://github.com/Raghav4951/Task-Manager-app
 
 ---
-###2. MediCare
+### 2. MediCare
 A PHP-based healthcare management system for handling patients, doctors, appointments, and doctor onboarding requests through a secure admin dashboard.
 
 Tech Used: PHP, MySQL, HTML, CSS
